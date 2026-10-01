@@ -36,8 +36,11 @@ Due to the strict timebox:
 - **Automated Test Runner:** While I architected the business rules into pure, easily testable functions, I did not configure Jest or a test runner suite in the interest of completing the core API and concurrency requirements.
 
 ## Declaration
-
-I confirm that I completed this assignment myself, within the time box, without using AI assistants or AI code generation of any kind, and without help from other people.
-Any external sources I used are listed above.
 Name: [Mayur Sharad Patil]
+email:mayurthinks7@gmail.com
+portfolio: https://mayurspatil-portfolio.vercel.app
+other project URL: https://traco-webapp.vercel.app
+https://forexnotes.vercel.app
+https://secure-bankapp.vercel.app
+
 Date: October 1, 2026
