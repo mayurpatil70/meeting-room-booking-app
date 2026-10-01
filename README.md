@@ -1,9 +1,11 @@
 # Meeting Room Booking System
 
-## Prerequisites
-
-- Node.js (v18+)
+##Tech Stack
+- Node.js
+- Express.js
+- React.js
 - PostgreSQL (Neon.tech)
+- JavaSript/TypeScript
 
 ## Setup and Run Instructions
 
@@ -36,11 +38,12 @@ Due to the strict timebox:
 - **Automated Test Runner:** While I architected the business rules into pure, easily testable functions, I did not configure Jest or a test runner suite in the interest of completing the core API and concurrency requirements.
 
 ## Declaration
-Name: [Mayur Sharad Patil]
+Name: [ Mayur Sharad Patil ]
 email:mayurthinks7@gmail.com
 portfolio: https://mayurspatil-portfolio.vercel.app
-other project URL: https://traco-webapp.vercel.app
-https://forexnotes.vercel.app
-https://secure-bankapp.vercel.app
+other project Live URLs: https://traco-webapp.vercel.app ,
+https://forexnotes.vercel.app ,
+https://secure-bankapp.vercel.app ,
 
 Date: October 1, 2026
+Time: 05:50 PM
